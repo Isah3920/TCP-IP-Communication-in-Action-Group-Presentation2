@@ -1,12 +1,12 @@
 # TCP/IP Communication in Action: Opening a Secure Website
 
 **Course:** WADF105  
-**Group:** TEAM-04  
+**Group:** TEAM-07  
 **Programme:** FCDF-COHORT-11  
 **Level:** 1, Semester 1  
 **Presentation Date:** 30 September 2026  
 **Presenters:** Isa Sani Alhassan (C11/26/FCDF17171)
-**On behalf of:** TEAM-04
+**On behalf of:** TEAM-07
 
 ---
 
