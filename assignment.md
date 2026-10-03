@@ -235,10 +235,9 @@ The report expands and organizes the concepts presented in the slides into a str
 | Item | Details |
 |---|---|
 | **Course** | WADF105 |
-| **Group** | TEAM-04 |
+| **Group** | TEAM-07 |
 | **Programme** | FCDF-COHORT-11 |
 | **Level** | Level 1, Semester 1 |
 | **Presentation Date** | 30 September 2026 |
-| **Presenter 1** | Isa Sani Alhassan — C11/26/FCDF17171 |
-| **Presenter 2** | Lelah Naomie — C11/26/FCDF17184 |
-| **Representing** | TEAM-04 |
+| **Presenter 1** | Isa Sani Alhassan — C11/26/FCDF17171 |  
+| **Representing** | TEAM-07 |
