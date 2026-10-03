@@ -5,7 +5,7 @@
 **Programme:** FCDF-COHORT-11  
 **Level:** 1, Semester 1  
 **Presentation Date:** 30 September 2026  
-**Presenters:** Isa Sani Alhassan (C11/26/FCDF17171) and Lelah Naomie (C11/26/FCDF17184)  
+**Presenters:** Isa Sani Alhassan (C11/26/FCDF17171)
 **On behalf of:** TEAM-04
 
 ---
